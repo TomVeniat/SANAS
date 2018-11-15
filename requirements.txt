@@ -1,0 +1,11 @@
+git+git://github.com/IDSIA/sacred#egg=sacred
+git+git://github.com/facebookresearch/visdom#egg=visdom
+git+git://github.com/TomVeniat/logger.git#egg=logger
+torch
+tqdm
+pymongo
+librosa
+networkx
+matplotlib
+plotly
+torchnet
