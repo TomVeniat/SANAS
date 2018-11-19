@@ -1,6 +1,6 @@
 # SANAS: Stochastic Adaptive Neural Architecture Search
 
-Implementation of **SANAS** (see [paper on arXiv ](https://arxiv.org/abs/1811.06753)), a model able to dynamically adapt deep architectures at test time for efficient sequence classification.
+Implementation of **SANAS** (see [paper on arXiv ](https://arxiv.org/abs/1811.06753)), a model able to dynamically adapt the architecture of a Deep Neural Network at test time for efficient sequence classification.
 
 # Installation:
  - Create an environment with Python 3.6
